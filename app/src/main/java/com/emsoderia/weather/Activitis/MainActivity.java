@@ -1,8 +1,10 @@
-package com.emsoderia.weather;
+package com.emsoderia.weather.Activitis;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.emsoderia.weather.R;
 
 public class MainActivity extends AppCompatActivity {
 
